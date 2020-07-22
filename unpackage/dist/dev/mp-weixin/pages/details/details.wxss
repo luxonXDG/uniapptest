@@ -1,0 +1,26 @@
+
+.list{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	height: 50px;
+	width: 100%;
+	border-bottom: 1px solid #F2F5F4;
+}
+.listLeft{
+	font-size: 15px;
+	margin-left: 10px;
+	height: 100%;
+	line-height: 50px;
+	color: #696969;
+}
+.listRight{
+	font-size: 15px;
+	line-height: 50px;
+	margin-right: 10px;
+	color: 	#FF4500;
+}
+

@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "不良反应",
+  "navigationBarBackgroundColor": "#3DCCB4",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": true,
+  "usingComponents": {}
+}

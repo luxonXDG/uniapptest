@@ -1,0 +1,22 @@
+
+.list>navigator>view{
+	  margin-top: 20px;
+	  width: 100%;
+	  
+	  font-size: 15px;
+	  border-bottom: 1px solid #F2F5F4;
+}
+.Tittle{
+	  margin-left: 15px;
+	  /* font-size: 15px; */
+	  font-weight: 600;
+	  color: #3dcdb4;
+}
+.Data{
+	  margin-left: 15px;
+	  color: #a3a7af;
+	  margin-top: 10px;
+	  font-size: 13px;
+	  margin-bottom: 15px;
+}
+

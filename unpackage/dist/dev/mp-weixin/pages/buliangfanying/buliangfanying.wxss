@@ -1,0 +1,17 @@
+
+.uni-list{
+	margin-top: 50rpx;
+}
+.uni-list-cell {
+	font-size: 28rpx;
+	line-height: 90rpx;
+}
+checkbox{
+	position: absolute;
+	right: 0;
+}
+.form-btn{
+	margin-top: 200rpx;
+	width: 80%;
+}
+

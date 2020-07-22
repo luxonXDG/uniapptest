@@ -1,0 +1,24 @@
+
+.accountList>view{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack:justify;
+	-webkit-justify-content:space-between ;
+	        justify-content:space-between ;
+	height: 60px;
+	border-bottom: 1px solid #F2F5F4;
+}
+.listName{
+	color: #939998;
+	font-size: 15px;
+	margin-left: 10px;
+	line-height: 60px;
+}
+.open image{
+	height: 35px;
+	width: 35px;
+	margin-right: 10px;
+	margin-top: 15px;
+}
+

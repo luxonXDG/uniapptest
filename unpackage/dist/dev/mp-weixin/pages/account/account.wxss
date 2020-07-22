@@ -1,0 +1,115 @@
+
+.Bitcoin{
+		height:100px;
+		background-color: #F2F5F4;
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: flex;
+		-webkit-box-pack: center;
+		-webkit-justify-content: center;
+		        justify-content: center;
+		/* border: 1px solid red; */
+}
+.BitcoinTop{
+	width: 50%;
+	/* border: 1px solid red; */
+	line-height: 60px;
+	font-size: 15px;
+	/* margin-left: 5%; */
+	/* border: 1px solid red; */
+}
+.hetao{
+	color: #696969;
+	padding-left: 30px;
+	height: 20px;
+	font-weight: 600;
+}
+.daojishi{
+	padding-left: 30px;
+	padding-top: 10px;
+	font-size: 12px;
+	color: #939998;
+}
+.BitcoinBottom{
+	/* border: 1px solid red; */
+	width: 40%;
+	/* margin-left: 40%; */
+	/* display: flex;
+	justify-content: space-between; */
+}
+.BitcoinBottomleft{
+	color: #696969;
+	padding-top: 10px;
+	padding-left: 30px;
+}
+.BitcoinBottomright{
+	padding-left: 30px;
+	padding-top: 10px;
+	font-size: 12px;
+	/* line-height: 40px; */
+	color: #3dcdb4;
+	/* margin-right: 10px; */
+}
+.Recharge{
+	margin-top: 15px;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	height: 35px;
+}
+.icon image{
+	margin-top: 6px;
+	width: 25px;
+	height: 25px;
+	margin-left: 15px;
+}
+.Rechargecontent{
+	margin-left: 5px;
+	font-size: 15px;
+	height: 100%;
+	line-height: 35px;
+}
+.options{
+	margin-top: 20px;
+	
+	display: -webkit-box;
+	
+	display: -webkit-flex;
+	
+	display: flex;
+	-webkit-justify-content: space-around;
+	        justify-content: space-around;
+}
+.options view{
+	color: 	#696969;
+	line-height: 30px;
+    padding: 10px 0px;
+	font-size: 18px;
+	/* line-height: 80px; */
+	font-weight: 700;
+	text-align: center;
+	width: 30%;
+	border: 1px solid #f2f5f4;
+}
+.footer{
+	margin-top: 100px;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+}
+.footerleft{
+	font-size: 12px;
+	line-height: 40px;
+	color: #3dcdb4;
+	margin-right: 10px;
+}
+.footerright button{
+	font-size: 15px;
+	color: #FFFFFF;
+	width: 150px;
+	background-color: #ff4c4c;
+}
+

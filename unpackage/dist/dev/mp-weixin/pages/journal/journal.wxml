@@ -1,0 +1,1 @@
+<view><view class="list"><navigator url="../log/log"><block wx:for="{{massage}}" wx:for-item="item" wx:for-index="i" wx:key="i"><view><view class="Tittle">{{item.datatime+" 日记"}}</view><view class="Data">{{"记录时间:"+item.datatime}}</view></view></block></navigator></view></view>

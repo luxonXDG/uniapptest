@@ -1,0 +1,23 @@
+
+.set{
+	height: 60px;
+	border-bottom: 1px solid #CACACC;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+}
+.massage{
+	font-size: 15px;
+	color: #C0C0C0;
+	line-height: 60px;
+	padding-left: 10px;
+}
+.Switch{
+	margin-right: 10px;
+	margin-top: 15px;
+}
+
+

@@ -1,0 +1,30 @@
+
+.header{
+	height: 70px;
+	width: 100px;
+	margin: 30px auto;
+	color: #FF8C00;
+	font-size: 28px;
+	line-height: 70px;
+	font-weight: 700;
+	text-align: center;
+	width: 30%;
+}
+.line{
+	border-bottom: 20px solid #F2F5F4;
+}
+.content{
+	width: 92%;
+	margin: 0px auto;
+}
+.content ._h4{
+	font-size: 15px;
+	padding-top: 20px;
+	font-weight: inherit;
+}
+.content ._p{
+	padding-top: 10px;
+	font-size: 14px;
+	color: #939998;
+}
+

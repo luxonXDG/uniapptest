@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "手机绑定",
+  "navigationBarBackgroundColor": "#3DCCB4",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": true,
+  "usingComponents": {}
+}

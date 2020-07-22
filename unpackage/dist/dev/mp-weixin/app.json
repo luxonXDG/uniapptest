@@ -1,0 +1,74 @@
+{
+  "pages": [
+    "pages/denglu/denglu",
+    "pages/index/index",
+    "pages/zhuce/zhuce",
+    "pages/xiaoxi/xiaoxi",
+    "pages/sanfangdenglu/sanfangdenglu",
+    "pages/jibenxinxi/jibenxinxi",
+    "pages/buliangfanying/buliangfanying",
+    "pages/bindingPhonePopup/bindingPhonePopup",
+    "pages/fazuocishu/fazuocishu",
+    "pages/more/more",
+    "pages/scanning/scanning",
+    "components/jiangkang",
+    "components/huodong",
+    "components/xitong",
+    "pages/binliben/binliben",
+    "pages/ME/ME",
+    "pages/information/information",
+    "pages/journal/journal",
+    "pages/account/account",
+    "pages/mydoctor/mydoctor",
+    "pages/set/set",
+    "pages/details/details",
+    "pages/Rechargedescription/Rechargedescription",
+    "pages/Confirmorder/Confirmorder",
+    "pages/Messagesettings/Messagesettings",
+    "pages/Accountsettings/Accountsettings",
+    "pages/Versionupdate/Versionupdate",
+    "pages/Clearcache/Clearcache",
+    "pages/shareAPP/shareAPP",
+    "pages/log/log"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "selectedColor": "#3DCCB4",
+    "borderStyle": "white",
+    "backgroundColor": "#FFFFFF",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "static/zhuce/shouye_hui.png",
+        "selectedIconPath": "static/zhuce/shouye.png"
+      },
+      {
+        "pagePath": "pages/binliben/binliben",
+        "text": "病历本",
+        "iconPath": "static/zhuce/bijiben_hui.png",
+        "selectedIconPath": "static/zhuce/bijiben.png"
+      },
+      {
+        "pagePath": "pages/xiaoxi/xiaoxi",
+        "text": "消息",
+        "iconPath": "static/zhuce/xiaoxi_hui.png",
+        "selectedIconPath": "static/zhuce/xiaoxi.png"
+      },
+      {
+        "pagePath": "pages/ME/ME",
+        "text": "我的",
+        "iconPath": "static/zhuce/wode_hui.png",
+        "selectedIconPath": "static/zhuce/wode.png"
+      }
+    ]
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap38.json"
+}

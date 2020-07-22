@@ -1,0 +1,34 @@
+
+.registerDiagram image.data-v-2c535374{
+		width: 100%;
+}
+.popup_input.data-v-2c535374 {
+		/* border: 1px solid red; */
+		margin: 0 15px 0 15px;
+}
+.popup_input input.data-v-2c535374 {
+		border-bottom: 1px solid #cacccc;
+		padding: 10px;
+		font-size: 15px;
+		margin-bottom: 10px;
+}
+.yanzhen.data-v-2c535374 {
+		position: relative;
+}
+.yanzhen button.data-v-2c535374 {
+		position: absolute;
+		right: 0;
+		top: 5px;
+		color: #fff;
+		background-color: #3DCCB4;
+}
+.yanzhen_btn.data-v-2c535374::after {
+		border: none;
+}
+.popup_btn button.data-v-2c535374 {
+		background-color: #3DCCB4;
+		color: #fff;
+		margin-top: 15px;
+		font-size: 15px;
+}
+

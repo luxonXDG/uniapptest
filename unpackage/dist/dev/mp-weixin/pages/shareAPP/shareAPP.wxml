@@ -1,0 +1,1 @@
+<view><uni-popup class="vue-ref" vue-id="aa9cee00-1" type="message" data-ref="popup" bind:__l="__l" vue-slots="{{['default']}}"><uni-popup-message vue-id="{{('aa9cee00-2')+','+('aa9cee00-1')}}" type="success" message="成功消息" duration="{{2000}}" bind:__l="__l" vue-slots="{{['default']}}">fenxiang</uni-popup-message></uni-popup></view>

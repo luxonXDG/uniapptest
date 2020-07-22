@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "核桃仁",
+  "navigationBarBackgroundColor": "#3DCCB4",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": true,
+  "usingComponents": {}
+}

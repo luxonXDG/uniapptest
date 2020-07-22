@@ -1,0 +1,365 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/denglu/denglu",
+			"style": {
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "罗德医疗中心",
+				"navigationBarBackgroundColor": "#3DCCB4",
+				"navigationBarTextStyle": "white",
+				// "enablePullDownRefresh": true,
+				"app-plus": {
+					"titleNView": {
+						"buttons": [{
+							"text": "扫码",
+							"fontSize": "28rpx",
+							"float":"right"
+						}]
+					}
+				}
+			}
+		}, {
+			"path": "pages/zhuce/zhuce",
+			"style": {
+				"navigationBarTitleText": "注 册",
+				"navigationBarBackgroundColor": "#3DCCB4",
+				"navigationBarTextStyle": "white"
+				// "enablePullDownRefresh": true
+			}
+		}, {
+			"path": "pages/xiaoxi/xiaoxi",
+			"style": {
+				"navigationBarTitleText": "消 息",
+				"navigationBarBackgroundColor": "#3DCCB4",
+				"navigationBarTextStyle": "white",
+				// "enablePullDownRefresh": true,
+				"app-plus": {
+					"titleNView": {
+						"buttons": [{
+							"text": "清除",
+							"fontSize": "14px",
+							"float": "right"
+						}]
+
+					}
+				}
+			}
+		}, {
+			"path": "pages/sanfangdenglu/sanfangdenglu",
+			"style": {
+				"navigationBarTitleText": "微信登录",
+				"navigationBarBackgroundColor": "#3DCCB4",
+				"navigationBarTextStyle": "white"
+				// "enablePullDownRefresh": true
+			}
+		}, {
+			"path": "pages/jibenxinxi/jibenxinxi",
+			"style": {
+				"navigationBarTitleText": "基本信息",
+				"navigationBarBackgroundColor": "#3DCCB4",
+				"navigationBarTextStyle": "white"
+				// "enablePullDownRefresh": true
+			}
+		}, {
+			"path": "pages/buliangfanying/buliangfanying",
+			"style": {
+				"navigationBarTitleText": "不良反应",
+				"navigationBarBackgroundColor": "#3DCCB4",
+				"navigationBarTextStyle": "white"
+				// "enablePullDownRefresh": true
+			}
+		},
+		{
+			"path": "pages/bindingPhonePopup/bindingPhonePopup",
+			"style": {
+				"navigationBarTitleText": "手机绑定",
+				"navigationBarBackgroundColor": "#3DCCB4",
+				"navigationBarTextStyle": "white"
+				// "enablePullDownRefresh": true
+			}
+		}, {
+			"path": "pages/fazuocishu/fazuocishu",
+			"style": {
+				"navigationBarTitleText": "发作次数",
+				"navigationBarBackgroundColor": "#3DCCB4",
+				"navigationBarTextStyle": "white"
+				// "enablePullDownRefresh": true
+			}
+		}, {
+			"path": "pages/more/more",
+			"style": {
+				"navigationBarTitleText": "患教列表",
+				"navigationBarBackgroundColor": "#3DCCB4",
+				"navigationBarTextStyle": "white"
+				// "enablePullDownRefresh": true
+			}
+		},
+		{
+			"path": "pages/scanning/scanning",
+			"style": {
+				"navigationBarTitleText": "app名称",
+				"navigationBarBackgroundColor": "#3DCCB4",
+				"navigationBarTextStyle": "white"
+				// "enablePullDownRefresh": true
+			}
+		},
+		{
+			"path": "components/jiangkang",
+			"style": {}
+		}, {
+			"path": "components/huodong",
+			"style": {}
+		}, {
+			"path": "components/xitong",
+			"style": {}
+		}, {
+			"path": "pages/binliben/binliben",
+			"style": {
+				"navigationBarTextStyle": "white",
+				"navigationBarTitleText": "病历本",
+				"navigationBarBackgroundColor": "#3dcdb4",
+				"backgroundColor": "#FFFFFF",
+				"app-plus": {
+					"titleNView": {
+						"buttons": [{
+							"text": "记录",
+							"fontSize": "14px",
+							"float": "right"
+						}]
+
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/ME/ME",
+			"style": {
+				"navigationBarTextStyle": "white",
+				"navigationBarTitleText": "我",
+				"navigationBarBackgroundColor": "#3dcdb4",
+				"backgroundColor": "#FFFFFF"
+			}
+		}, {
+			"path": "pages/information/information",
+			"style": {
+				"navigationBarTextStyle": "white",
+				"navigationBarTitleText": "个人信息",
+				"navigationBarBackgroundColor": "#3dcdb4",
+				"backgroundColor": "#FFFFFF"
+			}
+		}, {
+			"path": "pages/journal/journal",
+			"style": {
+				"navigationBarTextStyle": "white",
+				"navigationBarTitleText": "病情日志",
+				"navigationBarBackgroundColor": "#3dcdb4",
+				"backgroundColor": "#FFFFFF",
+				"app-plus": {
+					"titleNView": {
+						"buttons": [{
+							"text": "添加",
+							"fontSize": "14px",
+							"float": "right"
+						}]
+
+					}
+				}
+			}
+
+
+		}, {
+			"path": "pages/account/account",
+			"style": {
+				"navigationBarTextStyle": "white",
+				"navigationBarTitleText": "账户信息",
+				"navigationBarBackgroundColor": "#3dcdb4",
+				"backgroundColor": "#FFFFFF"
+			}
+		}, {
+			"path": "pages/mydoctor/mydoctor",
+			"style": {
+				"navigationBarTextStyle": "white",
+				"navigationBarTitleText": "我的医生",
+				"navigationBarBackgroundColor": "#3dcdb4",
+				"enablePullDownRefresh": true,
+				"backgroundColor": "#FFFFFF"
+			}
+		}, {
+			"path": "pages/set/set",
+			"style": {
+				"navigationBarTextStyle": "white",
+				"navigationBarTitleText": "设置",
+				"navigationBarBackgroundColor": "#3dcdb4",
+				"backgroundColor": "#FFFFFF"
+			}
+		}, {
+			"path": "pages/details/details",
+			"style": {
+				"navigationBarTextStyle": "white",
+				"navigationBarTitleText": "查看明细",
+				"navigationBarBackgroundColor": "#3dcdb4",
+				"backgroundColor": "#FFFFFF"
+			}
+		}, {
+			"path": "pages/Rechargedescription/Rechargedescription",
+			"style": {
+				"navigationBarTextStyle": "white",
+				"navigationBarTitleText": "充值说明",
+				"navigationBarBackgroundColor": "#3dcdb4",
+				"backgroundColor": "#FFFFFF"
+			}
+		}, {
+			"path": "pages/Confirmorder/Confirmorder",
+			"style": {
+				"navigationBarTextStyle": "white",
+				"navigationBarTitleText": "确认订单",
+				"navigationBarBackgroundColor": "#3dcdb4",
+				"backgroundColor": "#FFFFFF"
+			}
+		}, {
+			"path": "pages/Messagesettings/Messagesettings",
+			"style": {
+				"navigationBarTextStyle": "white",
+				"navigationBarTitleText": "消息设置",
+				"navigationBarBackgroundColor": "#3dcdb4",
+				"backgroundColor": "#FFFFFF"
+			}
+		}, {
+			"path": "pages/Accountsettings/Accountsettings",
+			"style": {
+				"navigationBarTextStyle": "white",
+				"navigationBarTitleText": "账户设置",
+				"navigationBarBackgroundColor": "#3dcdb4",
+				"backgroundColor": "#FFFFFF"
+			}
+		}, {
+			"path": "pages/Versionupdate/Versionupdate",
+			"style": {
+				"navigationBarTextStyle": "white",
+				"navigationBarTitleText": "版本更新",
+				"navigationBarBackgroundColor": "#3dcdb4",
+				"backgroundColor": "#FFFFFF"
+			}
+		}, {
+			"path": "pages/Clearcache/Clearcache",
+			"style": {
+				"navigationBarTextStyle": "white",
+				"navigationBarTitleText": "清除缓存",
+				"navigationBarBackgroundColor": "#3dcdb4",
+				"backgroundColor": "#FFFFFF"
+			}
+		}, {
+			"path": "pages/shareAPP/shareAPP",
+			"style": {
+				"navigationBarTextStyle": "white",
+				"navigationBarTitleText": "分享APP",
+				"navigationBarBackgroundColor": "#3dcdb4",
+				"backgroundColor": "#FFFFFF"
+			}
+		}, {
+			"path": "pages/log/log",
+			"style": {
+				"navigationBarTextStyle": "white",
+				"navigationBarTitleText": "填写日志",
+				"navigationBarBackgroundColor": "#3dcdb4",
+				"backgroundColor": "#FFFFFF",
+				"app-plus":{
+					"titleNView": {
+						"buttons": [{
+							"text": "保存",
+							"fontSize": "14px",
+							"float": "right"
+						}]
+					}
+				}
+			}
+		}
+	    ,{
+            "path" : "pages/jilujiuzhen/jilujiuzhen",
+            "style" : {
+				"navigationBarTextStyle": "white",
+				"navigationBarTitleText": "记录就诊",
+				"navigationBarBackgroundColor": "#3dcdb4",
+				"backgroundColor": "#FFFFFF"
+			}
+        }
+        ,{
+            "path" : "pages/wanzhengbingli/wanzhengbingli",
+            "style" : {
+				"navigationBarTextStyle": "white",
+				"navigationBarTitleText": "完整病历",
+				"navigationBarBackgroundColor": "#3dcdb4",
+				"backgroundColor": "#FFFFFF"
+			}
+        }
+
+        ,{
+            "path" : "pages/wanzhengzhengzhuang/wanzhengzhengzhuang",
+            "style" : {
+				"navigationBarTextStyle": "white",
+				"navigationBarTitleText": "完整症状",
+				"navigationBarBackgroundColor": "#3dcdb4",
+				"backgroundColor": "#FFFFFF"
+			}
+        }
+        ,{
+            "path" : "pages/fazuopinci/fazuopinci",
+            "style" : {
+				"navigationBarTextStyle": "white",
+				"navigationBarTitleText": "发作频次",
+				"navigationBarBackgroundColor": "#3dcdb4",
+				"backgroundColor": "#FFFFFF"
+			}
+        }
+        ,{
+            "path" : "pages/rizhixiangqing/rizhixiangqing",
+            "style" : {
+				"navigationBarTextStyle": "white",
+				"navigationBarTitleText": "日志详情",
+				"navigationBarBackgroundColor": "#3dcdb4",
+				"backgroundColor": "#FFFFFF"
+			}
+        }
+    ],
+	"tabBar": {
+		"selectedColor": "#3DCCB4",
+		"borderStyle": "white",
+		"backgroundColor": "#FFFFFF",
+		"list": [{
+				"pagePath": "pages/index/index",
+				"text": "首页",
+				"iconPath": "static/zhuce/shouye_hui.png",
+				"selectedIconPath": "static/zhuce/shouye.png"
+			},
+			{
+				"pagePath": "pages/binliben/binliben",
+				"text": "病历本",
+				"iconPath": "static/zhuce/bijiben_hui.png",
+				"selectedIconPath": "static/zhuce/bijiben.png"
+			},
+			{
+				"pagePath": "pages/xiaoxi/xiaoxi",
+				"text": "消息",
+				"iconPath": "static/zhuce/xiaoxi_hui.png",
+				"selectedIconPath": "static/zhuce/xiaoxi.png"
+			},
+			{
+				"pagePath": "pages/ME/ME",
+				"text": "我的",
+				"iconPath": "static/zhuce/wode_hui.png",
+				"selectedIconPath": "static/zhuce/wode.png"
+			}
+		]
+	},
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	}
+}

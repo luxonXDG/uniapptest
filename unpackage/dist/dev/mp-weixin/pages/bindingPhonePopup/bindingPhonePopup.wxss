@@ -1,0 +1,32 @@
+
+.popup_input.data-v-23e3b75c {
+		/* border: 1px solid red; */
+		margin: 0 15px 0 15px;
+}
+.popup_input input.data-v-23e3b75c {
+		border-bottom: 1px solid #cacccc;
+		padding: 10px;
+		font-size: 15px;
+		margin-bottom: 10px;
+}
+.yanzhen.data-v-23e3b75c {
+		position: relative;
+}
+.yanzhen button.data-v-23e3b75c {
+		position: absolute;
+		right: 0;
+		top: 5px;
+		color: #fff;
+		background-color: #3DCCB4;
+}
+.yanzhen_btn.data-v-23e3b75c::after {
+		border: none;
+}
+.popup_btn button.data-v-23e3b75c {
+		background-color: #3DCCB4;
+		color: #fff;
+		margin-top: 15px;
+		font-size: 15px;
+}
+
+

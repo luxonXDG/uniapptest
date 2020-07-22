@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "发作次数",
+  "navigationBarBackgroundColor": "#3DCCB4",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": true,
+  "usingComponents": {}
+}

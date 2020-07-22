@@ -1,0 +1,75 @@
+
+.all{
+		position: relative;
+		height: 600px;
+}
+.morderList{
+	width: 94%;
+	margin-left: 3%;
+	margin-top: 20px;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-justify-content: space-around;
+	        justify-content: space-around;
+	background-color: #F2F5F4;
+	border-radius: 5px;
+}
+.morderList>view{
+	/* border: 1px solid red; */
+	height: 80px;
+	width: 30%;
+}
+.morderListleft image{
+	width: 80px;
+	height: 80px;
+}
+.morderListCenter>view{
+	margin-top: 10px;
+}
+.morderListCenter>view:nth-of-type(1){
+	font-size: 16px;
+	font-weight: bold;
+}
+.morderListCenter>view:nth-of-type(2){
+	font-size: 14px;
+	color: #C0C0C0;
+}
+.morderListRight{
+	text-align: right;
+	line-height: 80px;
+	font-size: 15px;
+}
+.footer{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	position: absolute;
+	bottom: 0px;
+	height: 80px;
+	width: 100%;
+	border-top: 1px solid #CACACC;
+}
+.footerLeft{
+	padding-left: 10px;
+	height: 100%;
+	line-height: 80px;
+	font-size: 15px;
+	color: 	#696969;
+}
+.footerRight{
+	/* border: 1px solid red; */
+	padding-right: 10px;
+	margin-right: 0px;
+}
+.footerRight button{
+	font-size: 15px;
+	color: #FFFFFF;
+	width: 150px;
+	background-color: #ff4c4c;
+	margin: 20px auto;
+}
+

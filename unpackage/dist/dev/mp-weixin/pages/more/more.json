@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "患教列表",
+  "navigationBarBackgroundColor": "#3DCCB4",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": true,
+  "usingComponents": {}
+}
